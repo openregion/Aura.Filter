@@ -1,5 +1,5 @@
 {
-    "name": "aura/filter",
+    "name": "openregion/aura-filter",
     "type": "library",
     "description": "Filters to validate and sanitize objects and arrays.",
     "keywords": [
@@ -9,12 +9,12 @@
         "validator",
         "validation"
     ],
-    "homepage": "https://github.com/auraphp/Aura.Filter",
+    "homepage": "https://github.com/openregion/Aura.Filter",
     "license": "BSD-2-Clause",
     "authors": [
         {
             "name": "Aura.Filter Contributors",
-            "homepage": "https://github.com/auraphp/Aura.Filter/contributors"
+            "homepage": "https://github.com/openregion/Aura.Filter/contributors"
         }
     ],
     "require": {
